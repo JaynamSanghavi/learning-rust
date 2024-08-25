@@ -28,6 +28,17 @@ This repository documents my journey as I learn the Rust programming language. E
 - **Challenges:**
   - Getting familiar with the Cargo toolchain and understanding the `cargo check` output.
 
+### Day 2: August 25, 2024
+- **What I learned:**
+  - **Guessing Game:** Created a guessing game where a random number is generated, and the user must input guesses until they correctly guess the number.
+  - **Dependencies:** Learned how to add dependencies in the `Cargo.toml` file.
+  - **Variables:** Gained an understanding of immutable and mutable variables in Rust.
+  - **Control Flow:** Explored how the `match` and `loop` constructs work in Rust.
+
+- **Challenges:**
+  - Implementing the guessing logic and ensuring the game runs smoothly with proper user input handling.
+  - Understanding the differences and use cases for immutable vs. mutable variables.
+
 ## Learning Resources
 
 - [The Rust Programming Language (book)](https://doc.rust-lang.org/book/)
