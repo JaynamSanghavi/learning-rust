@@ -4,11 +4,17 @@ This repository documents my journey as I learn the Rust programming language. E
 
 ## Table of Contents
 
-- [Daily Log](#daily-log)
-- [Learning Resources](#learning-resources)
-- [Goals](#goals)
-- [Contributing](#contributing)
-- [License](#license)
+- [Learning Rust: Daily Progress](#learning-rust-daily-progress)
+  - [Table of Contents](#table-of-contents)
+  - [Daily Log](#daily-log)
+    - [Day 1:](#day-1)
+    - [Day 2:](#day-2)
+    - [Day 3:](#day-3)
+    - [Day 4:](#day-4)
+  - [Learning Resources](#learning-resources)
+  - [Goals](#goals)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 
 ## Daily Log
@@ -45,6 +51,17 @@ This repository documents my journey as I learn the Rust programming language. E
 
 - **Challenges:**
   - Applying the concept of mutability in different scenarios to understand when and how to use mutable variables effectively.
+
+
+### Day 4:
+- **What I learned:**
+  - **Data Types in Rust:**
+    - Explored different data types including signed and unsigned integers, floating-point numbers, booleans, and strings.
+    - Learned about complex data types like tuples and arrays.
+
+- **Challenges:**
+  - Understanding the differences between various data types and their usage scenarios.
+  - Practicing with tuples and arrays to manipulate and access data effectively.
 
 ## Learning Resources
 

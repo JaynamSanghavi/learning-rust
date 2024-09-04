@@ -14,7 +14,7 @@ fn main() {
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
 
-    println!("Guess the number!");
+    println!("Guess the number! ");
 
     loop {
         println!("Please input your guess: ");
@@ -32,7 +32,7 @@ fn main() {
             Err(err) =>  {
                 println!("Please enter the number {err}");
                 continue;
-            }  
+            }
         };
 
         match input_guess.cmp(&secret_number) {
