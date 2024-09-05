@@ -31,6 +31,25 @@ fn main() {
     println!("1st value is {}",tup.1);
 
     let arr =  [1,2,3];
+    let r = print_welcome("Test");
+    println!("Funct returned {r}");
 
-
+    let scopex = {
+        // if you dont put ; then the value would be return
+        r+1
+    };
+    println!("Value of x is {scopex}");
 }
+
+fn print_welcome(x:&str) -> i32{
+    println!("Welcome {x}");
+    10
+}
+
+fn is_even(x:i32) -> bool {
+    if x%2 == 0{
+        return true;
+    }
+    false
+}
+

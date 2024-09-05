@@ -11,6 +11,7 @@ This repository documents my journey as I learn the Rust programming language. E
     - [Day 2:](#day-2)
     - [Day 3:](#day-3)
     - [Day 4:](#day-4)
+    - [Day 5:](#day-5)
   - [Learning Resources](#learning-resources)
   - [Goals](#goals)
   - [Contributing](#contributing)
@@ -62,6 +63,17 @@ This repository documents my journey as I learn the Rust programming language. E
 - **Challenges:**
   - Understanding the differences between various data types and their usage scenarios.
   - Practicing with tuples and arrays to manipulate and access data effectively.
+
+### Day 5:
+- **What I learned:**
+  - **Functions in Rust:**
+    - Learned how to declare a function.
+    - Explored how to pass arguments to a function and return a value from it.
+    - Understood how to perform an early return from a function.
+
+- **Challenges:**
+  - Grasping different ways to handle function arguments and return types.
+  - Understanding the syntax and best practices for early returns.
 
 ## Learning Resources
 
